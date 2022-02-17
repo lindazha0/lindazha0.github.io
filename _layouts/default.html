@@ -21,7 +21,16 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.resume_link }}">View<strong>Resume</strong></a></li>
+          <li><a href="{{ site.github.owner_url }}">View<strong>GitHub</strong></a></li>
+          <li><a href="{{ site.blog_link }}">View<strong>Blogs</strong></a></li>
+        </ul>
+        {% endif %}
 
         <!-- email -->
         <dl>
@@ -37,14 +46,8 @@
         <!-- {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %} -->
+        <b>Carpe diem, quam minimum credula postero</b> 😆 
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.resume_link }}">View<strong>Resume</strong></a></li>
-          <li><a href="{{ site.github.owner_url }}">View<strong>GitHub</strong></a></li>
-          <li><a href="{{ site.blog_link }}">View<strong>Blogs</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
 
@@ -55,7 +58,6 @@
         <!-- {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %} -->
-        <b>Carpe diem, quam minimum credula postero 😆 </b>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
