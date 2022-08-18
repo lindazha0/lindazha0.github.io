@@ -24,10 +24,10 @@ MOBAVis: Visual Analytics for Real-time Forecasting of MOBA Events | Visual Anal
 
 ## Publications
 
-<b>PromotionLens: Inspecting Promotion Strategies of OnlineE-commerce via Visual Analytics</b>    
+<b>PromotionLens: Inspecting Promotion Strategies of OnlineE-commerce via Visual Analytics [Link↗](https://arxiv.org/abs/2208.01404)</b>    
 Chenyang Zhang, Xiyuan Wang, **Chuyi Zhao**, Yijing Ren, Tianyu Zhang, Zhenhui Peng, Xiaomeng Fan, Xiaojuan Ma, Quan Li    
 (accepted by [_IEEE VIS2022_](http://ieeevis.org))
-![promo_ui](assets/img/UI_00.jpg)   
+![promo_ui](assets/img/UI_00.jpg)    
 
 <b>Critique of "A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery" by SCC Team from ShanghaiTech University</b>    
 Li, Guancheng; Cao, Songhui; **Zhao, Chuyi**; Zhang, Siyuan; Jing, Haotian; Ji, Yuchen; Li, Zecheng; Cheng, Jiajun; Yang, Yiwei; Yin, Shu    
