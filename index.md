@@ -29,11 +29,13 @@ Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Quan Li
 <b>Critique of "A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery" by SCC Team from ShanghaiTech University [↗](https://ieeexplore.ieee.org/document/9882379)</b>    
 Li, Guancheng; Cao, Songhui; **Zhao, Chuyi**; Zhang, Siyuan; Jing, Haotian; Ji, Yuchen; Li, Zecheng; Cheng, Jiajun; Yang, Yiwei; Yin, Shu    
 (accepted by [_IEEE Transactions on Parallel and Distributed Systems_](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=71))
+<a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/"><img src="assets/img/SC21Logo.png" width="120" alt="SC21_logo" /></a>    
+
 
 <b>PromotionLens: Inspecting Promotion Strategies of OnlineE-commerce via Visual Analytics [↗](https://arxiv.org/abs/2208.01404)</b>    
 Chenyang Zhang, Xiyuan Wang, **Chuyi Zhao**, Yijing Ren, Tianyu Zhang, Zhenhui Peng, Xiaomeng Fan, Xiaojuan Ma, Quan Li    
-(accepted by [_IEEE VIS2022_](http://ieeevis.org))
-[![promo_ui](assets/img/UI_00.jpg)](https://arxiv.org/pdf/2208.01404.pdf)    
+(accepted by [_IEEE VIS2022_](http://ieeevis.org))    
+[![promo_ui](assets/img/UI_00.jpg)](https://arxiv.org/abs/2208.01404)    
 
 ## Award
 
