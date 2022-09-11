@@ -26,7 +26,7 @@ Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Quan Li
 (under revision by [_ACM CHI2023_](https://chi2023.acm.org/))
 
 
-<b>Critique of "A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery" by SCC Team from ShanghaiTech University</b>    
+<b>Critique of "A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery" by SCC Team from ShanghaiTech University [↗](https://ieeexplore.ieee.org/document/9882379)</b>    
 Li, Guancheng; Cao, Songhui; **Zhao, Chuyi**; Zhang, Siyuan; Jing, Haotian; Ji, Yuchen; Li, Zecheng; Cheng, Jiajun; Yang, Yiwei; Yin, Shu    
 (accepted by [_IEEE Transactions on Parallel and Distributed Systems_](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=71))
 
