@@ -8,8 +8,8 @@ My current interests are **SE (Software Engineering), HCI (Human-Computer Intera
 
 ## Education 
 
+2022 - 2024 (expected)  | M.S. in CS, Tufts University
 2018 - 2022  | B.E. in CS, ShanghaiTech University   
-2022 - 2024  | M.S. in CS, Tufts University
 
 ## Selected Projects
 
