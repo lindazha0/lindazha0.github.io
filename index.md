@@ -3,8 +3,10 @@ layout: default
 ---
 # About Me
 
-I am a Master Student in Computer Science at [Tufts University](https://www.tufts.edu), currently focusing on computer engineering. I obtained my Bachelor degree in CS from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), during which I was supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/). In his Viseer Lab, my daily routine was about paper reading, visual analytics system designing and development. Apart from that, I'm always enthusiastic about trying new projects in all areas.     
-My current interests are **SE (Software Engineering), HCI (Human-Computer Interaction)** and **IoT (Internet of Things)**. I program mostly in **C/C++, Python, H5+C3+JS**. Feel free to contact me in English and Mandarine.
+I am a Master Student in Computer Science at [Tufts University](https://www.tufts.edu), currently focusing on computer engineering. I obtained my Bachelor's degree in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), during which I was supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/) in ViSeer Lab and Prof. [Shu Yin](https://scholar.google.com/citations?user=CJGqcXoAAAAJ) over SC21 HPC Competition.    
+As an undergrad RA in Viseer Lab, my routine was about paper reading, designing and developing visual analytics systems, and lots of teamwork.     
+As a Master student now, I'm developing my full-stack skills further and actively seeking job oppertunities as a SE.    
+Apart from that, I'm always enthusiastic about trying new projects in all areas. My current interests are **SE (Software Engineering), HCI (Human-Computer Interaction)** and **IoT (Internet of Things)**. I program mostly in **C/C++, Python, H5+C3+JS**. Feel free to contact me in English and Mandarine.
 
 ## Education 
 
@@ -13,10 +15,12 @@ My current interests are **SE (Software Engineering), HCI (Human-Computer Intera
 
 ## Selected Projects
 
-Smart Jetbot based on Jetson Nano | Full-stack 
-Volume Rendering with Interactive Adjustable Transfer Function | Computer Graphics
-PintOS | Operating System
-MOBAVis: Visual Analytics for Real-time Forecasting of MOBA Events | Visual Analytics
+Smart Jetbot based on Nvidia Jetson Nano[↗](https://github.com/lindazha0/jetApp) | Full-Stack & Mechanism
+Volume Rendering with Interactive Adjustable Transfer Function[↗](https://github.com/lindazha0/CS271_Project_VolumnRendering) | Computer Graphics
+PintOS (from Stanford)[↗](https://github.com/lindazha0/CS130_PintOS_Projects) | Operating System
+MOBAVis: Visual Analytics for Real-time Forecasting of MOBA Events[↗](https://github.com/mobaVis) | Visual Analytics
+PPI Prediction Based on Multi-Channel Deep Learning | Deep Learning/ Bioinformatics
+Card Game: Landlord-Off[↗](https://github.com/20CS181)| Artificial Intelligence
 
 
 ## Publications
@@ -29,7 +33,7 @@ Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Quan Li
 <b>Critique of "A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery" by SCC Team from ShanghaiTech University [↗](https://ieeexplore.ieee.org/document/9882379)</b>    
 Guancheng Li; Songhui Cao; **Chuyi Zhao**; Siyuan Zhang; Yuchen Ji; Haotian Jing; Zecheng Li ; Jiajun Cheng; Yiwei Yang; Shu Yin    
 (accepted by [_IEEE Transactions on Parallel and Distributed Systems_](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=71))
-<a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/"><img src="assets/img/SC21Logo.png" width="120" alt="SC21_logo" /></a>    
+<a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/"><img src="assets/img/SC21_logo.png" width="120" alt="SC21_logo" /></a>    
 
 
 <b>PromotionLens: Inspecting Promotion Strategies of OnlineE-commerce via Visual Analytics [↗](https://arxiv.org/abs/2208.01404)</b>    
