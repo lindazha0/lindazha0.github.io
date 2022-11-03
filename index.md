@@ -36,14 +36,15 @@ Guancheng Li; Songhui Cao; **Chuyi Zhao**; Siyuan Zhang; Yuchen Ji; Haotian Jing
 <a href="https://sc21.supercomputing.org/program/studentssc/student-cluster-competition/"><img src="assets/img/SC21_logo.png" width="120" alt="SC21_logo" /></a>    
 
 
-<b>PromotionLens: Inspecting Promotion Strategies of OnlineE-commerce via Visual Analytics [↗](https://arxiv.org/abs/2208.01404)</b>    
+<b>PromotionLens: Inspecting Promotion Strategies of Online E-commerce via Visual Analytics [↗](https://ieeexplore.ieee.org/abstract/document/9903289)</b>    
 Chenyang Zhang, Xiyuan Wang, **Chuyi Zhao**, Yijing Ren, Tianyu Zhang, Zhenhui Peng, Xiaomeng Fan, Xiaojuan Ma, Quan Li    
 (accepted by [_IEEE VIS2022_](http://ieeevis.org))    
-[![promo_ui](assets/img/UI_00.jpg)](https://arxiv.org/abs/2208.01404)    
+[![promo_ui](assets/img/UI_00.jpg)](https://ieeexplore.ieee.org/abstract/document/9903289)    
 
 ## Award
 
-11/2022  |  2nd Place in [SC21 Students Competition](https://studentclustercompetition.us/2021/index.html)   
+10/2022  |  Winner with 3 prizes in [TechTogether Bostion 2022](https://devpost.com/software/voice-wallet-4vzp13)    
+11/2021  |  2nd Place in [SC21 Students Competition](https://studentclustercompetition.us/2021/index.html), with 1st Place in the [Reproducibility Challenge](https://sc21.supercomputing.org/2021/05/24/sc21-student-cluster-reproducibility-challenge-committee-converges-on-a-benchmark/)   
 <!-- ## Blogs -->
 
 
