@@ -44,7 +44,7 @@ Chenyang Zhang, Xiyuan Wang, **Chuyi Zhao**, Yijing Ren, Tianyu Zhang, Zhenhui P
 ## Award
 
 10/2022  |  Winner with 3 prizes in [TechTogether Bostion 2022](https://devpost.com/software/voice-wallet-4vzp13)    
-11/2021  |  2nd Place in [SC21 Students Competition](https://studentclustercompetition.us/2021/index.html), with 1st Place in the [Reproducibility Challenge](https://sc21.supercomputing.org/2021/05/24/sc21-student-cluster-reproducibility-challenge-committee-converges-on-a-benchmark/)   
+11/2021  |  2nd Place in [SC21 SCC (Students Cluster Competition)](https://studentclustercompetition.us/2021/index.html), with 1st Place in the [Reproducibility Challenge](https://sc21.supercomputing.org/2021/05/24/sc21-student-cluster-reproducibility-challenge-committee-converges-on-a-benchmark/)   
 <!-- ## Blogs -->
 
 
