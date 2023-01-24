@@ -26,8 +26,8 @@ Card Game: Landlord-Off[↗](https://github.com/20CS181)| Artificial Intelligenc
 ## Publications
 
 <b>BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</b>    
-Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Quan Li    
-(under revision by [_ACM CHI2023_](https://chi2023.acm.org/))
+Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Jianpeng Xiao, Quan Li    
+(under revision by [_CSCW '23_](https://cscw.acm.org/2023/))
 
 
 <b>Critique of "A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery" by SCC Team from ShanghaiTech University [↗](https://ieeexplore.ieee.org/document/9882379)</b>    
@@ -41,10 +41,10 @@ Chenyang Zhang, Xiyuan Wang, **Chuyi Zhao**, Yijing Ren, Tianyu Zhang, Zhenhui P
 (accepted by [_IEEE VIS2022_](http://ieeevis.org))    
 [![promo_ui](assets/img/UI_00.jpg)](https://ieeexplore.ieee.org/abstract/document/9903289)    
 
-## Award
+## Awards
 
-10/2022  |  Winner with 3 prizes in [TechTogether Bostion 2022](https://devpost.com/software/voice-wallet-4vzp13)    
-11/2021  |  2nd Place in [SC21 SCC (Students Cluster Competition)](https://studentclustercompetition.us/2021/index.html), with 1st Place in the [Reproducibility Challenge](https://sc21.supercomputing.org/2021/05/24/sc21-student-cluster-reproducibility-challenge-committee-converges-on-a-benchmark/)   
+10/2022  |  Winner of 3 prizes in [TechTogether Bostion 2022](https://devpost.com/software/voice-wallet-4vzp13)    
+11/2021  |  2nd Place in [SC21, SCC(Students Cluster Competition)](https://studentclustercompetition.us/2021/index.html), with the 1st rank in the [Reproducibility Challenge](https://sc21.supercomputing.org/2021/05/24/sc21-student-cluster-reproducibility-challenge-committee-converges-on-a-benchmark/)   
 <!-- ## Blogs -->
 
 
