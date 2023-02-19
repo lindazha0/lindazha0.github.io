@@ -1,9 +1,10 @@
 title: Chuyi (Linda) Zhao
+favicon: /assets/img/bocchi.ico
 logo: /assets/img/mimi_Fotor.png
 description: My personal webpage for sharing all my projects and experiences.
 
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
@@ -11,6 +12,6 @@ plugins:
 
 email_1: zhlinda3@gmail.com
 email_2: chuyi.zhao@tufts.edu
-resume_link: /assets/pdf/chuyi_zhao_resume_se.pdf
+resume_link: /assets/pdf/CS.Chuyi.Zhao.pdf
 blog_link: https://lindazhao.notion.site/Chuyi-s-Tech-Journey-2bffcd3c54dd4f179961db2d14ae828c
 fault: /_layouts/404.html
