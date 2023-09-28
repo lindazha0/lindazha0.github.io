@@ -15,6 +15,9 @@ Apart from that, I'm always enthusiastic about trying new projects in all areas.
 
 ## Selected Projects
 
+Internal Database Query Tool | C++ Development
+Emulator Compiling Optimization | Compiler, Research
+GNN-based Call Graph Classification[↗](https://github.com/lindazha0/CS150_DGL_CallGraphClassification.git) | Deep Learning/ Data Science
 Smart Jetbot based on Nvidia Jetson Nano[↗](https://github.com/lindazha0/jetApp) | Full-Stack & Mechanism
 Volume Rendering with Interactive Adjustable Transfer Function[↗](https://github.com/lindazha0/CS271_Project_VolumnRendering) | Computer Graphics
 PintOS (from Stanford)[↗](https://github.com/lindazha0/CS130_PintOS_Projects) | Operating System
@@ -27,7 +30,7 @@ Card Game: Landlord-Off[↗](https://github.com/20CS181)| Artificial Intelligenc
 
 <b>BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</b>    
 Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Jianpeng Xiao, Quan Li    
-(under revision by [_CSCW '23_](https://cscw.acm.org/2023/))
+(Accepted by [_CSCW '24_](https://cscw.acm.org/2024/))
 
 
 <b>Critique of "A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery" by SCC Team from ShanghaiTech University [↗](https://ieeexplore.ieee.org/document/9882379)</b>    
