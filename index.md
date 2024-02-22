@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[jump](./another-page.html)
+<!-- [jump](./another-page.html) -->
 
 # About Me
 
