@@ -15,3 +15,11 @@ email_2: chuyi.zhao@tufts.edu
 resume_link: /assets/pdf/CS.Chuyi.Zhao.pdf
 blog_link: https://lindazhao.notion.site/Chuyi-s-Tech-Journey-2bffcd3c54dd4f179961db2d14ae828c
 fault: /_layouts/404.html
+
+# Github links
+github:
+  is_project_page: false
+  owner_name: lindazha0
+  owner_url: https://github.com/lindazha0
+  repository_name: lindazha0.github.io
+  repository_url: https://github.com/lindazha0

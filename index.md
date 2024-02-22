@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[jump](./another-page.html)
+
 # About Me
 
 I am a Master Student in Computer Science at [Tufts University](https://www.tufts.edu), currently focusing on computer engineering. I obtained my Bachelor's degree in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), during which I was supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/) in ViSeer Lab and Prof. [Shu Yin](https://scholar.google.com/citations?user=CJGqcXoAAAAJ) over SC21 HPC Competition.    
@@ -28,7 +30,7 @@ Card Game: Landlord-Off[↗](https://github.com/20CS181)| Artificial Intelligenc
 
 ## Publications
 
-<b>BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</b>    
+<b>BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics [↗](https://arxiv.org/abs/2311.05912)</b>    
 Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Jianpeng Xiao, Quan Li    
 (Accepted by [_CSCW '24_](https://cscw.acm.org/2024/))
 
@@ -51,5 +53,4 @@ Chenyang Zhang, Xiyuan Wang, **Chuyi Zhao**, Yijing Ren, Tianyu Zhang, Zhenhui P
 <!-- ## Blogs -->
 
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
-  -->
+<!-- Text can be **bold**, _italic_,
