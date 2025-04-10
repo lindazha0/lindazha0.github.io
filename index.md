@@ -5,14 +5,15 @@ layout: default
 
 # About Me
 
-I am a Master Student in Computer Science at [Tufts University](https://www.tufts.edu), currently focusing on computer engineering. I obtained my Bachelor's degree in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), during which I was supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/) in ViSeer Lab and Prof. [Shu Yin](https://scholar.google.com/citations?user=CJGqcXoAAAAJ) over SC21 HPC Competition.    
-As an undergrad RA in Viseer Lab, my routine was about paper reading, designing and developing visual analytics systems, and lots of teamwork.     
-As a Master student now, I'm developing my full-stack skills further and actively seeking job oppertunities as a SE.    
-Apart from that, I'm always enthusiastic about trying new projects in all areas. My current interests are **SE (Software Engineering), HCI (Human-Computer Interaction)** and **IoT (Internet of Things)**. I program mostly in **C/C++, Python, H5+C3+JS**. Feel free to contact me in English and Mandarine.
+I am a Software Engineer at Siemens EDA. I obtained my Master's in Computer Science at [Tufts University](https://www.tufts.edu), and my Bachelor's in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). 
+
+During my school years, I was supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/) in ViSeer Lab and Prof. [Shu Yin](https://scholar.google.com/citations?user=CJGqcXoAAAAJ) over SC21 HPC Competition. As an undergrad RA at Viseer, my routine was mostly paper reading, designing and developing visual analytics systems, and lots of teamwork.     
+ 
+I'm enthusiastic about trying new projects in all areas. My current interests are **SE (Software Engineering), HCI (Human-Computer Interaction)** and **IoT (Internet of Things)**. I program mostly in **C/C++, Python, H5+C3+JS**, and Shell scripts. Apart from all the technical things, I am always pursuing to apply tech to build something that works and resolves real-life problems. I am fluent in English and Mandarin, with limited Spanish and Japanese capabilities (despite much interest and effort).
 
 ## Education 
 
-2022 - 2024 (expected)  | M.S. in CS, Tufts University
+2022 - 2024  | M.S. in CS, Tufts University
 2018 - 2022  | B.E. in CS, ShanghaiTech University   
 
 ## Selected Projects
@@ -30,7 +31,7 @@ Card Game: Landlord-Off[↗](https://github.com/20CS181)| Artificial Intelligenc
 
 ## Publications
 
-<b>BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics [↗](https://arxiv.org/abs/2311.05912)</b>    
+<b>BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics [↗](https://dl.acm.org/doi/abs/10.1145/3637303)</b>    
 Shiyi Liu, Ruofei Ma, **Chuyi Zhao**, Zhenbang Li, Jianpeng Xiao, Quan Li    
 (Accepted by [_CSCW '24_](https://cscw.acm.org/2024/))
 
