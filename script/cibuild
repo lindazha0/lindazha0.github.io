@@ -4,7 +4,7 @@ set -e
 
 bundle exec jekyll build
 # Ignore external links for now or whitelist specific URLs
-bundle exec htmlproofer ./_site --check-html --check-sri  --url-ignore "https://dl.acm.org/,https://faculty.sist.shanghaitech.edu.cn/"
+bundle exec htmlproofer ./_site --check-sri  --url-ignore "https://dl.acm.org/,https://faculty.sist.shanghaitech.edu.cn/"
 bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
 gem build jekyll-theme-minimal.gemspec
