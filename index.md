@@ -5,11 +5,9 @@ layout: default
 
 # About Me
 
-I am a Software Engineer at Siemens EDA. I obtained my Master's in Computer Science at [Tufts University](https://www.tufts.edu), and my Bachelor's in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). 
-
-During my school years, I was supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/) in ViSeer Lab and Prof. [Shu Yin](https://scholar.google.com/citations?user=CJGqcXoAAAAJ) over SC21 HPC Competition. As an undergrad RA at Viseer, my routine was mostly paper reading, designing and developing visual analytics systems, and lots of teamwork.     
+I am 赵楚一 (Linda Chuyi Zhao), a Software Engineer at Siemens, working on EDA emulator development. I obtained my Master's in Computer Science at [Tufts University](https://www.tufts.edu), and my Bachelor's in Computer Science and Technology from [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/). During my school years, I was supervised by Prof. [Quan Li](https://faculty.sist.shanghaitech.edu.cn/liquan/) in ViSeer Lab and Prof. [Shu Yin](https://scholar.google.com/citations?user=CJGqcXoAAAAJ) over SC21 HPC Competition.
  
-I'm enthusiastic about trying new projects in all areas. My current interests are **SE (Software Engineering), HCI (Human-Computer Interaction)** and **IoT (Internet of Things)**. I program mostly in **C/C++, Python, H5+C3+JS**, and Shell scripts. Apart from all the technical things, I am always pursuing to apply tech to build something that works and resolves real-life problems. I am fluent in English and Mandarin, with limited Spanish and Japanese capabilities (despite much interest and effort).
+I'm enthusiastic about trying new projects in all areas. My current interests are **SE (Software Engineering), HCI (Human-Computer Interaction)** and **IoT (Internet of Things)**. I program mostly in **C/C++, Python, H5+C3+JS**, and **Shell** scripts. Apart from all the technical skills, I am always pursuing to build cool tech things that solve real-life problems. I am fluent in English and Mandarin, with limited Spanish and Japanese capabilities (despite much interest and effort).
 
 ## Education 
 
@@ -18,7 +16,8 @@ I'm enthusiastic about trying new projects in all areas. My current interests ar
 
 ## Selected Projects
 
-Internal Database Query Tool | C++ Development
+Internal Circuit Modules with Clockwise Mechanism | C/C++, EDA
+Temperature Monitor at Tufts on ESP32-C3 | C, Embedded Systems
 Emulator Compiling Optimization | Compiler, Research
 GNN-based Call Graph Classification[↗](https://github.com/lindazha0/CS150_DGL_CallGraphClassification.git) | Deep Learning/ Data Science
 Smart Jetbot based on Nvidia Jetson Nano[↗](https://github.com/lindazha0/jetApp) | Full-Stack & Mechanism
